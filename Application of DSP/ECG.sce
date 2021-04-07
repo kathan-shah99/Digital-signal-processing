@@ -1,3 +1,4 @@
+//---Author :Kathan-shah-----
 clc
 clear 
 //-------------ECG singal genration------------
