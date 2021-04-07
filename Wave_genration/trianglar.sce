@@ -1,3 +1,5 @@
+//---Author :Kathan-shah-----
+
 //LAB-1-DSP-EX-2 & 3
 clear 
 clc
