@@ -1,3 +1,4 @@
+//---Author :Kathan-shah-----
 clear
 clc
 Tx = input("enter Tx sequence :  ") //input Binary Sequance
